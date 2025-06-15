@@ -1,0 +1,1 @@
+# SGI-Jewelry-desktop-app
