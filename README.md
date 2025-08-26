@@ -46,4 +46,4 @@ A feature-rich desktop application built using Java and NetBeans IDE to help SGI
 
 1. **Clone or Download**
    ```bash
-   git clone https://github.com/yourusername/sgi-desktop-java.git
+   git clone https://github.com/Ayesha-Khushnood/SGI-Jewelry-desktop-app.git
